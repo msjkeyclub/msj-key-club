@@ -53,7 +53,7 @@ window.CLUB = {
     { value: 17, label: "Dues-paid members" },
     { value: 70, suffix: "+", label: "Total members", note: "On our mailing list" },
     { value: 7, label: "Service events", note: "Last year" },
-    { value: 200, label: "Service hours given out" },
+    { value: 200, label: "Service hours given out", note: "In 2025" },
     { value: 400, prefix: "$", label: "Fundraised", note: "This year" },
   ],
 
