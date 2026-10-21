@@ -54,7 +54,7 @@ window.CLUB = {
     { value: 70, suffix: "+", label: "Total members", note: "On our mailing list" },
     { value: 7, label: "Service events", note: "Last year" },
     { value: 200, label: "Service hours given out", note: "In 2025" },
-    { value: 400, prefix: "$", label: "Fundraised", note: "This year" },
+    { value: 400, prefix: "$", label: "Raised", note: "In 2025" },
   ],
 
   // Recent events with photos. Put photos in assets/impact/ and reference them here.
